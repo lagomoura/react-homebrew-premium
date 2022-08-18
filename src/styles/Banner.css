@@ -1,0 +1,8 @@
+.banner {
+  min-height: calc(100vh - 192px);
+  background:url(../img/fundonovo.jpg);
+  background-size: cover;
+  background-position: center right; 
+  background-repeat: no-repeat;
+}
+
